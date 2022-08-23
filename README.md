@@ -2,10 +2,10 @@
 Mirza Waleed
 </h1>
 <h2 align="center">
-| Doctoral Researcher👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
+| PhD Student👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
 </h2>
 <h3 align="center">
-| Hazard Analysis🌊| Climate Change🌡️| Land-use🌆|
+| Hazard, Risk, & Flood Analysis🌊| Climate Change🌡️| Land-use🌆|
 </h3>
 
 ---
@@ -15,18 +15,13 @@ Mirza Waleed
 
 #### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing and GEE. My current aim is to work on regional to global scale studies addressing environmental change using geospatial techniques. For this I am working as well as open to any collaboration opportunity.
 
-## Recent Publications:
+For more information please see my [Portfolio Website](https://waleedgeo.github.io)
 
-- #### Waleed, M., & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665. | [DOI](https://doi.org/10.1016/j.rsase.2021.100665) | [PDF](https://drive.google.com/file/d/15S7TzBYdyYUBULQ9UUQ6ngeI-G6fhRTx/view?usp=sharing) | 
-
-- #### Hussain, S., Mubeen, M., Ahmad, A., Masood, N., Hammad, H. M., Amjad, M., ... & Waleed, M. (2021). Satellite-based evaluation of temporal change in cultivated land in Southern Punjab (Multan region) through dynamics of vegetation and land surface temperature. Open Geosciences, 13(1), 1561-1577. | [DOI](https://doi.org/10.1515/geo-2020-0298) | [PDF](https://drive.google.com/file/d/1641f49BkZnuWhublovjEcUnpWO3U1jlq/view?usp=sharing) | 
-
-## Contact me:
 
 <h3 align="center">
 
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="Gmail" />][Gmail]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="50" title="Mail" />][Mail]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="50" title="Google Scholar" />][Google Scholar]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />][LinkedIn]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
@@ -35,10 +30,10 @@ Mirza Waleed
 
 [Fiverr]: https://www.fiverr.com/waleed_gis
 [Google Scholar]: https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en
-[LinkedIn]: https://www.linkedin.com/in/mirzawaleed197
+[LinkedIn]: https://www.linkedin.com/in/waleedgeo
 [ResearchGate]: https://www.researchgate.net/profile/Mirza-Waleed
 [orcid]: https://orcid.org/0000-0003-0006-2490
-[Gmail]: mailto:mirzawaleed197@gmail.com
+[Mail]: mailto:waleedgeo@outlook.com
 
 </h3>
 
