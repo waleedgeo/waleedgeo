@@ -74,12 +74,12 @@ For more information please see my [Portfolio Website](https://waleedgeo.github.
 
 Current Projects:
 
-<a href="https://github.com/waleed-gis/PU-Waleed2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=PU-Waleed2022" />
+<a href="https://github.com/waleedgeo/PU-Waleed2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedgeo&repo=PU-Waleed2022" />
 </a>
 
-<a href="https://github.com/waleed-gis/env_indicators_GEE_central_america">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=env_indicators_GEE_central_america" />
+<a href="https://github.com/waleedgeo/env_indicators_GEE_central_america">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedgeo&repo=env_indicators_GEE_central_america" />
 </a>
 
 ---
@@ -92,9 +92,9 @@ My Github Stats :
 <br />
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=waleed-gis&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=waleedgeo&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=2&hide=html,css,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedgeo&langs_count=2&hide=html,css,shell)
 
 
 ---
