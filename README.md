@@ -72,17 +72,7 @@ For more information please see my [Portfolio Website](https://waleedgeo.github.
 
 <h2 align ="center">
 
-Current Projects:
 
-<a href="https://github.com/waleedgeo/PU-Waleed2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedgeo&repo=PU-Waleed2022" />
-</a>
-
-<a href="https://github.com/waleedgeo/env_indicators_GEE_central_america">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedgeo&repo=env_indicators_GEE_central_america" />
-</a>
-
----
 
 
 
