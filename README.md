@@ -2,20 +2,22 @@
 Mirza Waleed
 </h1>
 <h2 align="center">
-| PhD Student👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
+| PhD Researcher👨‍🔬🎓| Google Developer Expert (Earth Engine 🌍)| Remote Sensing & GIS 🛰️|
 </h2>
 <h3 align="center">
-| Hazard, Risk, & Flood Analysis🌊| Climate Change🌡️| Land-use🌆|
+| Disaster Risk Management 🌊| Climate Change🌡️| Land-use🌆|
 </h3>
 
 ---
 
 #### I am doing my PhD in Geography from [Department of Geography](https://geog.hkbu.edu.hk/) at the [Hong Kong Baptist University](https://www.hkbu.edu.hk/). 
-#### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, hazard analysis, and climate change.
+#### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, to aid disaster management, and to study floods.
 
-#### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing and GEE. My current aim is to work on regional to global scale studies addressing environmental change using geospatial techniques. For this I am working as well as open to any collaboration opportunity.
+#### GDE: I have been nominated as a [Google Developer Expert (GDE) in Earth Engine category](https://g.dev/waleedgeo).
 
-For more information please see my [Portfolio Website](https://waleedgeo.github.io)
+#### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~5 years of experience in geospatial domain, and have worked on more then 100 projects on Remote Sensing, GIS and GEE. My current aim is to work on creating open-sourced tools which can simplify the conventional geospatial analysis. Furthermore, I am actively creating blogs/tutorials/workshops for geospatial analysis, specifically on the use of GEE for different applications.
+
+#### For more information please see my [Portfolio Website](https://waleedgeo.com)
 
 
 <h3 align="center">
@@ -65,26 +67,3 @@ For more information please see my [Portfolio Website](https://waleedgeo.github.
 <img src="https://i0.wp.com/filecr.com/wp-content/uploads/2022/01/clark-labs-terrset-logo.png" width="50" title="Terrset" />&nbsp;
 
 </h3>
-
-
-
----
-
-<h2 align ="center">
-
-
-
-
-
-
-My Github Stats :
-
-<br />
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=waleedgeo&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedgeo&langs_count=2&hide=html,css,shell)
-
-
----
