@@ -15,7 +15,9 @@ PhD Researcher👨‍🔬🎓  -  Google Developer Expert in Earth Engine 🌍
 
 #### GDE: I have been nominated as a [Google Developer Expert (GDE) in Earth Engine category](https://g.dev/waleedgeo).
 
-#### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~5 years of experience in geospatial domain, and have worked on more then 100 projects on Remote Sensing, GIS and GEE. My current aim is to work on creating open-sourced tools which can simplify the conventional geospatial analysis. Furthermore, I am actively creating blogs/tutorials/workshops for geospatial analysis, specifically on the use of GEE for different applications.
+#### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~5 years of experience in geospatial domain, and have worked on more then 100 projects on Remote Sensing, GIS and GEE. 
+
+#### My current aim is to create open-sourced tools which can simplify the conventional geospatial analysis. Furthermore, I am actively creating blogs/tutorials/workshops for geospatial analysis, specifically on the use of GEE for different environmental applications.
 
 #### For more information please see my [Portfolio Website](https://waleedgeo.com)
 
