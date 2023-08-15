@@ -2,10 +2,10 @@
 Mirza Waleed
 </h1>
 <h2 align="center">
-| PhD Researcher👨‍🔬🎓| Google Developer Expert (Earth Engine 🌍)| Remote Sensing & GIS 🛰️|
+PhD Researcher👨‍🔬🎓  -  Google Developer Expert in Earth Engine 🌍
 </h2>
 <h3 align="center">
-| Disaster Risk Management 🌊| Climate Change🌡️| Land-use🌆|
+| Remote Sensing & GIS 🛰️ | Disaster Risk Management 🌊 | Land-Use Land-Cover🌆 |
 </h3>
 
 ---
